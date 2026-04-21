@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "small": "2020 - ONGOING",
+    "title": "Tomorrowland",
+    "bg": "/tommorowland.png",
+    "bgColor": "#010c25",
+    "matcap": 19
+  },
+  {
+    "id": 2,
+    "small": "2020 - ONGOING",
+    "title": "Navy Pier",
+    "bg": "/navy-pier.png",
+    "bgColor": "#030827",
+    "matcap": 8
+  },
+  {
+    "id": 3,
+    "small": "2020 - ONGOING",
+    "title": "MSI Chicago",
+    "bg": "/msi-chicago.png",
+    "bgColor": "#010f31",
+    "matcap": 9
+  },
+  {
+    "id": 4,
+    "small": "2020 - ONGOING",
+    "title": "This Was Louise's Phone",
+    "bg": "/phone.png",
+    "bgColor": "#011728",
+    "matcap": 12
+  },
+  {
+    "id": 5,
+    "small": "2020 - ONGOING",
+    "title": "KIKK Festival 2018",
+    "bg": "/kikk.png",
+    "bgColor": "#031684",
+    "matcap": 10
+  },
+  {
+    "id": 6,
+    "small": "2020 - ONGOING",
+    "title": "The Kennedy Center",
+    "bg": "/kennedy.png",
+    "bgColor": "#0c2633",
+    "matcap": 11
+  },
+  {
+    "id": 7,
+    "small": "2020 - ONGOING",
+    "title": "Royal Opera of Wallonia",
+    "bg": "/opera.png",
+    "bgColor": "#670101",
+    "matcap": 13
+  }
+]

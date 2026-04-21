@@ -1,0 +1,8 @@
+@import url(https://db.onlinewebfonts.com/c/015ed00ca6e2a6c1a688b0dbc0dd37b9?family=GT+Sectra+Display+Bold);
+@import url(https://db.onlinewebfonts.com/c/015ed00ca6e2a6c1a688b0dbc0dd37b9?family=GT+Sectra+Display+Light);
+@import "tailwindcss";
+@theme{
+
+    --font-GT-Bold: "GT Sectra Display Bold", Times, Georgia, serif;
+    --font-GT-Light: "GT Sectra Display Light", Times, Georgia, serif;
+}
