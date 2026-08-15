@@ -1,16 +1,53 @@
-# React + Vite
+## DogStudio Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A creative recreation of the Dogstudio website, built to experiment with advanced web animation, interactive 3D graphics, and immersive UI experiences.
 
-Currently, two official plugins are available:
+## Live Demo:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://www.dogstudioclone.netlify.app](https://dogstudioclone.netlify.app/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Purpose:
 
-## Expanding the ESLint configuration
+This project was built as a frontend recreation to study:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Web animation
+- Page transitions
+- Interaction design
+- Typography
+- Motion
+- WebGL/3D techniques
+
+## Disclaimer
+
+This is an educational recreation and is not affiliated
+with the original studio.
+
+## Features
+
+- Creative agency-style interface
+- Interactive WebGL background
+- Real-time 3D model rendering
+- Interactive hover effects
+- Animated 3D materials and textures
+- Dynamic background transitions
+- Scroll-based interactions
+- Responsive layout
+
+## Tech Stack
+
+- React
+- React Three Fiber
+- Three.js
+- GSAP
+- WebGL
+- JavaScript
+- Tailwind CSS
+
+## Show Your Support
+
+If you found this project interesting, consider giving the repository a ⭐.
+
+Thanks for checking DogStudioClone by me.🫰🏻
+
+Thanks for checking out Dog! ☀️🪐
