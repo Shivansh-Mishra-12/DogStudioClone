@@ -2,6 +2,13 @@
 
 A creative recreation of the Dogstudio website, built to experiment with advanced web animation, interactive 3D graphics, and immersive UI experiences.
 
+
+## Disclaimer
+
+This is an educational recreation and is not affiliated
+with the original studio.
+
+
 ## Live Demo:
 
 [https://www.dogstudioclone.netlify.app](https://dogstudioclone.netlify.app/)
@@ -18,10 +25,6 @@ This project was built as a frontend recreation to study:
 - Motion
 - WebGL/3D techniques
 
-## Disclaimer
-
-This is an educational recreation and is not affiliated
-with the original studio.
 
 ## Features
 
