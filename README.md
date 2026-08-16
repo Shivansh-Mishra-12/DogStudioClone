@@ -1,5 +1,7 @@
 ## DogStudio Clone
 
+<img width="1901" height="962" alt="image" src="https://github.com/user-attachments/assets/88a2caee-33a1-40e2-ba25-8c260dba96dc" />
+
 A creative recreation of the Dogstudio website, built to experiment with advanced web animation, interactive 3D graphics, and immersive UI experiences.
 
 
